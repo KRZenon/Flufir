@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "417478185482",
+    "project_id": "travelapp-98c84",
+    "storage_bucket": "travelapp-98c84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417478185482:android:a7a81579382e6e3b4045f3",
+        "android_client_info": {
+          "package_name": "com.example.flufir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417478185482-7os72053oi6gd5r0snb4apk4n3gn209o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKlNlYXH1ux1oIpoGPHj-ABt3ctP0USk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417478185482-7os72053oi6gd5r0snb4apk4n3gn209o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417478185482-m3fhgq9ld0lcbt8ma5b96iicug9q34jc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flufir"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
